@@ -1,0 +1,11 @@
+{
+  "name": "react-native-multiview-calendar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Rupesh Bramhankar",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
